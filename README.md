@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MODOZIE
-- 👀 I’m interested in machine learning
+- 👀 I’m a newbie interested in exploring the world of computer,solve problems and work with professionals that will guide me through,have tried to let it go but have come to realize it's part of me,I really love coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a project
 - 😔 I hope things work out well on learning journey
